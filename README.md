@@ -1,6 +1,7 @@
 # Human-Resources-Project
 HR Analytics Dashboard with Power BI
-
+Project Link :
+https://app.powerbi.com/links/feLiTBH_1b?ctid=f66b53d3-2031-4d79-9815-e5c03c805237&pbi_source=linkShare&bookmarkGuid=7291c91c-54cf-4bb7-92a6-a0f07f16b46d
 # 🧠 HR Analytics Dashboard with Power BI
 
 This project presents a comprehensive ** HR Analytics Dashboard** developed using ** Microsoft Power BI **, designed to help organizations gain insights into their workforce and make data-driven decisions.
